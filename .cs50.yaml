@@ -1,0 +1,6 @@
+check50:
+  checks:
+    degrees:
+      - run: python3 degrees/degrees.py
+      stdout: hello!
+      exit: 0
